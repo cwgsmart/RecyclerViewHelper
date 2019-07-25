@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.netease.hearttouch:ht-refreshrecyclerview:1.2.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eb6bb19ba23961c7ec5917777645093b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eb6bb19ba23961c7ec5917777645093b/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netease.hearttouch/ht-refreshrecyclerview/1.2.3/93aaf21d5ff3fe88644dfbed931fff814c9ce88a/ht-refreshrecyclerview-1.2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
